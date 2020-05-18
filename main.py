@@ -1,11 +1,11 @@
 import warnings
-import itertools
+#import itertools
 import numpy as np
 import matplotlib.pyplot as plt
 warnings.filterwarnings("ignore")
-plt.style.use('fivethirtyeight')
+#plt.style.use('fivethirtyeight')
 import pandas as pd
-import statsmodels.api as sm
+#import statsmodels.api as sm
 
 
 dataset= pd.read_excel('dataset.xlsx',sheet_name='Sheet1')
