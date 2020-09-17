@@ -1,4 +1,4 @@
-# solar_photovoltaics_prediction_-_analytics
+# solar photovoltaics prediction analytics
 
 Objective- This model predicts the short term power forecasting of solar photovoltaics.
 
