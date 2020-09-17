@@ -7,3 +7,4 @@ Dataset -The dataset has been taken from CPCB(Central Pollution Control Board) a
 Technique used-
 1. The model uses ARIMA(Auto Regressive Integrated Moving Average) for forecasting the power. 
 2. It uses Random Forest Regressor for predicting the power on the basis of parameters like Solar Irradiace, Humidity etc.
+![Image of Prediction](https://js0805.github.com/applygithub.png)
